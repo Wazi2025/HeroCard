@@ -55,7 +55,7 @@ h1,h3,p {
 
 .card_container{
     background-color: rgb(12, 12, 12);
-    color: antiquewhite;
+    color: rgb(239, 235, 230);
     display:flex;
     max-width: 500px;
     border-radius: 10px;
